@@ -1,1 +1,2 @@
 This folder contains the files necessary to visualize digital twins and true cells using AGAVE. 
+- Digital_Twin_True_Cell_Visualize.json: open JSON file with AGAVE to visualize digital twin vs true cell comparison for a single cell. Change directory path in JSON file to visualize different cells. Use agave_cell_comparison.tiff file created in 3D_cell_eval notebook in the data_analysis folder. To download AGAVE please visit: https://github.com/allen-cell-animated/agave/releases/tag/v1.2.4
