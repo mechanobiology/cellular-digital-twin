@@ -1,0 +1,292 @@
+{
+    "backgroundColor": [
+        0,
+        0,
+        0
+    ],
+    "boundingBoxColor": [
+        1,
+        1,
+        1
+    ],
+    "camera": {
+        "aperture": 0,
+        "exposure": 0.75,
+        "eye": [
+            0.5,
+            0.24902723729610443,
+            1.1419281959533691
+        ],
+        "focalDistance": 0.75,
+        "fovY": 55,
+        "orthoScale": 0.5,
+        "projection": 0,
+        "target": [
+            0.5,
+            0.24902723729610443,
+            0.06225680932402611
+        ],
+        "up": [
+            0,
+            1,
+            0
+        ]
+    },
+    "channels": [
+        {
+            "diffuseColor": [
+                0,
+                0.6666666865348816,
+                0
+            ],
+            "emissiveColor": [
+                0,
+                0,
+                0
+            ],
+            "enabled": true,
+            "glossiness": 1,
+            "lutParams": {
+                "controlPoints": [
+                    {
+                        "value": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "x": 0
+                    },
+                    {
+                        "value": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "x": 1
+                    }
+                ],
+                "isorange": 0.10000000149011612,
+                "isovalue": 0.5,
+                "level": 0.5,
+                "mode": 2,
+                "pctHigh": 0.9800000190734863,
+                "pctLow": 0.5,
+                "window": 0.25
+            },
+            "opacity": 1,
+            "specularColor": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "diffuseColor": [
+                0,
+                0,
+                1
+            ],
+            "emissiveColor": [
+                0,
+                0,
+                0
+            ],
+            "enabled": true,
+            "glossiness": 1,
+            "lutParams": {
+                "controlPoints": [
+                    {
+                        "value": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "x": 0
+                    },
+                    {
+                        "value": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "x": 1
+                    }
+                ],
+                "isorange": 0.10000000149011612,
+                "isovalue": 0.28999999165534973,
+                "level": 0.5,
+                "mode": 1,
+                "pctHigh": 0.9800000190734863,
+                "pctLow": 0.5,
+                "window": 0.25
+            },
+            "opacity": 1,
+            "specularColor": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "diffuseColor": [
+                1,
+                0,
+                0
+            ],
+            "emissiveColor": [
+                0,
+                0,
+                0
+            ],
+            "enabled": true,
+            "glossiness": 1,
+            "lutParams": {
+                "controlPoints": [
+                    {
+                        "value": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "x": 0
+                    },
+                    {
+                        "value": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "x": 1
+                    }
+                ],
+                "isorange": 0.10000000149011612,
+                "isovalue": 0.1639000028371811,
+                "level": 0.5,
+                "mode": 1,
+                "pctHigh": 0.9800000190734863,
+                "pctLow": 0.5,
+                "window": 0.30000001192092896
+            },
+            "opacity": 1,
+            "specularColor": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "clipRegion": [
+        [
+            0,
+            1
+        ],
+        [
+            0,
+            1
+        ],
+        [
+            0,
+            1
+        ]
+    ],
+    "density": 50,
+    "lights": [
+        {
+            "bottomColor": [
+                1,
+                1,
+                1
+            ],
+            "bottomColorIntensity": 1,
+            "color": [
+                10,
+                10,
+                10
+            ],
+            "colorIntensity": 1,
+            "distance": 1,
+            "height": 1,
+            "middleColor": [
+                1,
+                1,
+                1
+            ],
+            "middleColorIntensity": 1,
+            "phi": 1.5707963705062866,
+            "theta": 0,
+            "topColor": [
+                1,
+                1,
+                1
+            ],
+            "topColorIntensity": 1,
+            "type": 1,
+            "width": 1
+        },
+        {
+            "bottomColor": [
+                10,
+                10,
+                10
+            ],
+            "bottomColorIntensity": 1,
+            "color": [
+                1,
+                1,
+                1
+            ],
+            "colorIntensity": 100,
+            "distance": 10,
+            "height": 1,
+            "middleColor": [
+                10,
+                10,
+                10
+            ],
+            "middleColorIntensity": 1,
+            "phi": 1.5707963705062866,
+            "theta": 0,
+            "topColor": [
+                10,
+                10,
+                10
+            ],
+            "topColorIntensity": 1,
+            "type": 0,
+            "width": 1
+        }
+    ],
+    "name": "path/to/cell/folder/agave_cell_comparison.tiff",
+    "pathTracer": {
+        "primaryStepSize": 4,
+        "secondaryStepSize": 4
+    },
+    "renderIterations": 614,
+    "resolution": [
+        661,
+        598
+    ],
+    "scale": [
+        1,
+        1,
+        1
+    ],
+    "scene": 0,
+    "showBoundingBox": true,
+    "timeline": {
+        "currentTime": 0,
+        "maxTime": 0,
+        "minTime": 0
+    },
+    "version": [
+        1,
+        2,
+        2
+    ]
+}
