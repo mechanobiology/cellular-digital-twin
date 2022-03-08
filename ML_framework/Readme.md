@@ -10,4 +10,5 @@ To train the ML framework the following command can be used: python main.py --ac
 To test the ML framework the following command can be used: python main.py --action=independent_test
 
 The checkpoints from the training performed in the paper for FA and nucleus prediction can be downloaded from: https://drive.google.com/drive/folders/1I7DR0MXLonNME2ppwBrBVXOndn-wJBcW?usp=sharing
+
 These checkpoints can be used to replicate the predictions obtained in the paper.
